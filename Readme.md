@@ -4,3 +4,6 @@
 src/main.py
 test/main.py
 
+#Added file in src
+*Requirements.txt
+*App.py
