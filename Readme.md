@@ -15,3 +15,6 @@ Rel_1.0
 #Adding a base feature 2 in rel1.0
 
 #Feature1_rel_1.3
+#Feature1_rel_1.2
+
+#fix for Base feature 1
