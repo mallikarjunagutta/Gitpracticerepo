@@ -9,3 +9,5 @@ test/main.py
 *App.py
 #Added a new file in app.py
 #Added soft.txt file in src
+
+Rel_1.0
